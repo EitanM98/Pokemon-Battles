@@ -1,0 +1,3 @@
+C:/Users/eitan/Google Drive/שנה ב'/סמסטר א/תכנות מתקדם/Assignments/Assignment 3/PokemonsBattles/cmake-build-debug/CMakeFiles/PokemonsBattles.dir
+C:/Users/eitan/Google Drive/שנה ב'/סמסטר א/תכנות מתקדם/Assignments/Assignment 3/PokemonsBattles/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/eitan/Google Drive/שנה ב'/סמסטר א/תכנות מתקדם/Assignments/Assignment 3/PokemonsBattles/cmake-build-debug/CMakeFiles/rebuild_cache.dir
